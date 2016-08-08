@@ -1,2 +1,3 @@
 hello 2016-08-05
-lalalallala
+Git is a distributed version control system.
+Git is free software.
